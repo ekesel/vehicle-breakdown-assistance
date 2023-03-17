@@ -7,6 +7,7 @@ Installation
     Clone the repository to your local machine.
     Make sure you have django installed.
     Migrate the database by running python manage.py migrate.
+    run python manage.py collectstatic
     Start the server by running python manage.py runserver.
     Access the application by visiting http://localhost:8000 in your web browser.
 
